@@ -1,0 +1,156 @@
+{
+"sneakers": [
+ {
+  "id" : 0,
+  "brand" : "Nike",
+  "name" : "Nike Dunk Low Retro White",
+  "image": "https://images.stockx.com/images/Nike-Dunk-Low-Retro-White-Black-2021-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1633027409&q=80",
+  "price": "$140",
+  "year" : 2021
+ },
+ {
+  "id" : 1,
+  "brand" : "Jordan",
+  "name" : "Air Jordan 3 Retro Fire Red",
+  "image" : "https://images.stockx.com/images/Air-Jordan-3-Retro-Fire-Red-2022-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1663687791&q=80",
+  "price": "$170",
+  "year": "$176"
+ },
+ {
+  "id" : 2,
+  "brand" : "Jordan",
+  "name" : "Jordan 1 Retro High OG Taxi",
+  "image" : "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Yellow-Toe-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1659018402&q=80",
+  "price": "$151",
+  "year": 2022
+ },
+ {
+  "id" : 3,
+  "brand" : "Jordan",
+  "name" : "Jordan 4 Retro SE Black Canvas" ,
+  "image" : "https://images.stockx.com/images/Air-Jordan-4-Retro-SE-Black-Canvas-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1664433335&q=80",
+  "price": "228",
+  "year": 2022
+ },
+ {
+  "id" : 4,
+  "brand" : "Nike",
+  "name" : "NikeCraft General Purpose Shoe Tom Sachs Yellow",
+  "image" : "https://images.stockx.com/images/NikeCraft-General-Purpose-Shoe-Tom-Sachs-Yellow-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1662558895&q=80",
+  "price": "$95",
+  "year": 2022
+ },
+ {
+  "id" : 5,
+  "brand" : "Adidas",
+  "name" : "Adidas-Yeezy-Slide-Bone",
+  "image" : "https://images.stockx.com/images/adidas-Yeezy-Slide-Bone-2022-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1660143189&q=80",
+  "price": "$86",
+  "year": 2022
+ },
+ {
+  "id" : 6,
+  "brand" : "Jordan",
+  "name" : "Air Jordan 1 Retro Low OG SP Travis Scott Reverse Mocha",
+  "image" : "https://images.stockx.com/images/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Reverse-Mocha_V2-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1659033979&q=80",
+  "price": "$878",
+  "year": 2022
+ },
+ {
+  "id" : 7,
+  "brand" : "Jordan",
+  "name" : "Air Jordan 1 Retro Low OG Black Dark Powder Blue",
+  "image" : "https://images.stockx.com/images/Air-Jordan-1-Retro-Low-OG-UNC-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1659334953&q=80",
+  "price": "$141",
+  "year": 2022
+ },
+ {
+  "id" : 8,
+  "brand" : "Yezzy-Adidas",
+  "name" : "Adidas Yezzy Boost 350 V2 Slate",
+  "image" : "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1663699524&q=80",
+  "price": "$191",
+  "year": 2022
+ },
+ {
+  "id" : 9,
+  "brand" : "Jordan",
+  "name" : "Jordan 4 Retro Military Black",
+  "image" : "https://images.stockx.com/images/Air-Jordan-4-Retro-Military-Black-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1652711257&q=80",
+  "price": "$277",
+  "year": 2022
+ },
+ {
+  "id" : 10,
+  "brand" : "Nike",
+  "name" : "Nike Air Force 1 Low Off-White Brooklyn",
+  "image" : "https://images.stockx.com/images/Nike-Air-Force-1-Low-Off-White-Light-Green-Spark-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1662666856&q=80",
+  "price": "$1250",
+  "year": 2022
+ },
+ {
+  "id" : 11,
+  "brand" : "Nike",
+  "name" : "Nike Dunk Low SE Lottery Pack Malachite Green",
+  "image" : "https://images.stockx.com/images/Nike-Dunk-Low-SE-Lottery-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1662733640&q=80",
+  "price": "$128",
+  "year": 2022
+ },
+ {
+  "id" : 12,
+  "brand" : "Crocs",
+  "name" : "Crocs Classic Clog Lightning McQueen",
+  "image" : "https://images.stockx.com/images/Crocs-Classic-Clog-Lightning-McQueen-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1620405722&q=80",
+  "price": "$100",
+  "year": 2022
+ },
+ {
+  "id" : 13,
+  "brand" : "Yezzy",
+  "name" : "Adidas Yezzy Foam RNR",
+  "image" : "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Onyx-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1654264132&q=80",
+  "price": "$132",
+  "year": 2022
+ },
+ {
+  "id" : 14,
+  "brand" : "Yezzy",
+  "name" : "Adidas Yeezy-Slide Onyx",
+  "image" : "https://images.stockx.com/images/adidas-Yeezy-Slide-Black-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1646687426&q=80",
+  "price": "$75",
+  "year": 2022
+ },
+ {
+  "id" : 15,
+  "brand" : "Yezzy",
+  "name" : "Adidas Yeezy Slide Bone",
+  "image" : "https://images.stockx.com/images/adidas-Yeezy-Slide-Bone-2022-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1660143189&q=80",
+  "price": "86",
+  "year": 2022
+ },
+ {
+  "id" : 16,
+  "brand" : "Jordan",
+  "name" : "Jordan 3 Retro Fire Red",
+  "image" : "https://images.stockx.com/images/Air-Jordan-3-Retro-Fire-Red-2022-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1663687791&q=80",
+  "price": 120,
+  "year": 2022
+ },
+ {
+  "id" : 17,
+  "brand" : "Jordan",
+  "name" : "Jordan 1 Retro High OG Bleached Coral",
+  "image" : "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Stage-Haze-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1653035159&q=80",
+  "price": "$192",
+  "year": 2022
+ },
+ {
+  "id" : 18,
+  "brand" : "Jordan",
+  "name" : "Jordan 4 Retro Canyon Purple (W)",
+  "image" : "https://images.stockx.com/images/Air-Jordan-4-Retro-Canyon-Purple-W-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1660285854&q=80",
+  "price": "$163",
+  "year": 2022
+ }
+]
+}
