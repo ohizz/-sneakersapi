@@ -3,153 +3,153 @@
  {
   "id" : 0,
   "brand" : "Nike",
-  "name" : "Nike Dunk Low Retro White",
-  "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/071/445/308/original/719082_00.png.png?action=crop&width=360",
-  "price": "$140",
+  "name" : "Nike Dunk Low Black",
+  "image": "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/445/310/original/719082_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$157",
   "year" : 2021
  },
  {
   "id" : 1,
   "brand" : "Jordan",
-  "name" : "Air Jordan 3 Retro Fire Red",
-  "image" : "https://images.stockx.com/images/Air-Jordan-3-Retro-Fire-Red-2022-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1663687791&q=80",
-  "price": "$170",
-  "year": "$176"
+  "name" : "Air Jordan 11 Retro Cool Grey",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/064/535/248/original/704157_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$225",
+  "year": "2021"
  },
  {
   "id" : 2,
   "brand" : "Jordan",
-  "name" : "Jordan 1 Retro High OG Taxi",
-  "image" : "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Yellow-Toe-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1659018402&q=80",
-  "price": "$151",
+  "name" : "Jordan 4 Retro SE Black Canvas",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/856/149/original/933532_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$276",
   "year": 2022
  },
  {
   "id" : 3,
-  "brand" : "Jordan",
-  "name" : "Jordan 4 Retro SE Black Canvas" ,
-  "image" : "https://images.stockx.com/images/Air-Jordan-4-Retro-SE-Black-Canvas-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1664433335&q=80",
+  "brand" : "Yezzy",
+  "name" : "Adidas Yezzy Boost 350 V2 Slate" ,
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/075/775/178/original/924555_01.jpg.jpeg?action=crop&width=1000",
   "price": "$228",
   "year": 2022
  },
  {
   "id" : 4,
   "brand" : "Nike",
-  "name" : "NikeCraft General Purpose Shoe Tom Sachs Yellow",
-  "image" : "https://images.stockx.com/images/NikeCraft-General-Purpose-Shoe-Tom-Sachs-Yellow-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1662558895&q=80",
-  "price": "$95",
+  "name" : "Nike Dunk Low GS Triple Pink",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/074/222/591/original/DH9765_600.png.png?action=crop&width=1000",
+  "price": "$135",
   "year": 2022
  },
  {
   "id" : 5,
-  "brand" : "Adidas",
-  "name" : "Adidas-Yeezy-Slide-Bone",
-  "image" : "https://images.stockx.com/images/adidas-Yeezy-Slide-Bone-2022-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1660143189&q=80",
-  "price": "$86",
+  "brand" : "Nike",
+  "name" : "Nike Dunk Low SE Lottery Pack Malachite Green",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/593/817/original/948800_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$142",
   "year": 2022
  },
  {
   "id" : 6,
-  "brand" : "Jordan",
-  "name" : "Air Jordan 1 Retro Low OG SP Travis Scott Reverse Mocha",
-  "image" : "https://images.stockx.com/images/Air-Jordan-1-Retro-Low-OG-SP-Travis-Scott-Reverse-Mocha_V2-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1659033979&q=80",
-  "price": "$878",
+  "brand" : "Nike",
+  "name" : "Nike Dunk High White Black",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/059/759/016/original/789240_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$118",
   "year": 2022
  },
  {
   "id" : 7,
   "brand" : "Jordan",
-  "name" : "Air Jordan 1 Retro Low OG Black Dark Powder Blue",
-  "image" : "https://images.stockx.com/images/Air-Jordan-1-Retro-Low-OG-UNC-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1659334953&q=80",
-  "price": "$141",
+  "name" : "Air Jordan 4 Retro PS Military Black",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/074/423/166/original/940616_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$99",
   "year": 2022
  },
  {
   "id" : 8,
-  "brand" : "Yezzy-Adidas",
-  "name" : "Adidas Yezzy Boost 350 V2 Slate",
-  "image" : "https://images.stockx.com/images/adidas-Yeezy-Boost-350-V2-Slate-Core-Black-Slate-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1663699524&q=80",
-  "price": "$191",
+  "brand" : "Nike",
+  "name" : "Nike Dunk Low SE Lottery Pack Grey Fog",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/593/805/original/948801_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$146",
   "year": 2022
  },
  {
   "id" : 9,
   "brand" : "Jordan",
-  "name" : "Jordan 4 Retro Military Black",
-  "image" : "https://images.stockx.com/images/Air-Jordan-4-Retro-Military-Black-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1652711257&q=80",
+  "name" : "Air Jordan 3 Fire Red",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/075/209/346/original/942086_01.jpg.jpeg?action=crop&width=1000",
   "price": "$277",
   "year": 2022
  },
  {
   "id" : 10,
   "brand" : "Nike",
-  "name" : "Nike Air Force 1 Low Off-White Brooklyn",
-  "image" : "https://images.stockx.com/images/Nike-Air-Force-1-Low-Off-White-Light-Green-Spark-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1662666856&q=80",
-  "price": "$1250",
+  "name" : "Nike Dunk Low Valerian Blue",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/074/222/579/original/DD1391_400.png.png?action=crop&width=1000",
+  "price": "$186",
   "year": 2022
  },
  {
   "id" : 11,
-  "brand" : "Nike",
-  "name" : "Nike Dunk Low SE Lottery Pack Malachite Green",
-  "image" : "https://images.stockx.com/images/Nike-Dunk-Low-SE-Lottery-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1662733640&q=80",
-  "price": "$128",
+  "brand" : "New Balance",
+  "name" : "New Balance 550 Oreo",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/063/207/055/original/845080_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$127",
   "year": 2022
  },
  {
   "id" : 12,
-  "brand" : "Crocs",
-  "name" : "Crocs Classic Clog Lightning McQueen",
-  "image" : "https://images.stockx.com/images/Crocs-Classic-Clog-Lightning-McQueen-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1620405722&q=80",
-  "price": "$100",
-  "year": 2022
- },
- {
-  "id" : 13,
-  "brand" : "Yezzy",
-  "name" : "Adidas Yezzy Foam RNR",
-  "image" : "https://images.stockx.com/images/adidas-Yeezy-Foam-RNNR-Onyx-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1654264132&q=80",
-  "price": "$132",
-  "year": 2022
- },
- {
-  "id" : 14,
-  "brand" : "Yezzy",
-  "name" : "Adidas Yeezy-Slide Onyx",
-  "image" : "https://images.stockx.com/images/adidas-Yeezy-Slide-Black-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1646687426&q=80",
+  "brand" : "New Balance",
+  "name" : "New Balance 530 White Natural Indigo",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/071/383/827/original/602070_01.jpg.jpeg?action=crop&width=1000",
   "price": "$75",
   "year": 2022
  },
  {
+  "id" : 13,
+  "brand" : "New Balance",
+  "name" : "New Balance 550 White Green",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/056/052/228/original/781801_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$147",
+  "year": 2022
+ },
+ {
+  "id" : 14,
+  "brand" : "New Balance",
+  "name" : "New Balance 530v2 Retro Khaki",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/054/436/920/original/610002_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$65",
+  "year": 2022
+ },
+ {
   "id" : 15,
-  "brand" : "Yezzy",
-  "name" : "Adidas Yeezy Slide Bone",
-  "image" : "https://images.stockx.com/images/adidas-Yeezy-Slide-Bone-2022-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1660143189&q=80",
-  "price": "$86",
+  "brand" : "Nike",
+  "name" : "Air Force 1 '07 Triple White",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/048/340/059/original/712867_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$85",
   "year": 2022
  },
  {
   "id" : 16,
-  "brand" : "Jordan",
-  "name" : "Jordan 3 Retro Fire Red",
-  "image" : "https://images.stockx.com/images/Air-Jordan-3-Retro-Fire-Red-2022-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1663687791&q=80",
-  "price": "$120",
+  "brand" : "Nike",
+  "name" : "Nike Wmns Dunk Low Medium Olive",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/078/856/169/original/929446_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$175",
   "year": 2022
  },
  {
   "id" : 17,
-  "brand" : "Jordan",
-  "name" : "Jordan 1 Retro High OG Bleached Coral",
-  "image" : "https://images.stockx.com/images/Air-Jordan-1-Retro-High-OG-Stage-Haze-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1653035159&q=80",
-  "price": "$192",
+  "brand" : "Nike",
+  "name" : "Nike Tom Sachs x NikeCraft General Purpose",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/077/642/737/original/981386_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$102",
   "year": 2022
  },
  {
   "id" : 18,
-  "brand" : "Jordan",
-  "name" : "Jordan 4 Retro Canyon Purple (W)",
-  "image" : "https://images.stockx.com/images/Air-Jordan-4-Retro-Canyon-Purple-W-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1660285854&q=80",
-  "price": "$163",
+  "brand" : "New Balance",
+  "name" : "New Balance 550 White Grey",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/068/301/251/original/892807_01.jpg.jpeg?action=crop&width=1000",
+  "price": "$100",
   "year": 2022
  },
  {
@@ -159,6 +159,14 @@
   "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/075/829/271/original/946191_01.jpg.jpeg?action=crop&width=1000",
   "price" : "$205",
   "year" : 2021
- }
+ },
+ {
+    "id" : 20,
+    "brand" : "Nike",
+    "name": "Nike Dunk Low Judge Grey",
+    "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/074/832/000/original/937429_01.jpg.jpeg?action=crop&width=1000",
+    "price" : "$131",
+    "year" : 2021
+   }
 ]
 }
