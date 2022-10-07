@@ -151,6 +151,14 @@
   "image" : "https://images.stockx.com/images/Air-Jordan-4-Retro-Canyon-Purple-W-Product.jpg?fit=fill&bg=FFFFFF&w=140&h=75&fm=avif&auto=compress&dpr=1&trim=color&updated_at=1660285854&q=80",
   "price": "$163",
   "year": 2022
+ },
+ {
+  "id" : 19,
+  "brand" : "Nike",
+  "name": "Travis Scott X Air Jordan 1 Low OG TD 'Reserve",
+  "image" : "https://image.goat.com/transform/v1/attachments/product_template_additional_pictures/images/075/829/271/original/946191_01.jpg.jpeg?action=crop&width=1000",
+  "price" : "$205",
+  "year" : 2021
  }
 ]
 }
